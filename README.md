@@ -2,9 +2,13 @@
 
 
 H-Smart4412TKU로 실행 가능한 갤러그 게임
+- H-Smart4412TKU </br>
+<img src="src/12282150.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
 
 - 참여인원 : 2
 - 참고문헌 : 교재의 각 모듈 사용법과 [gettimeofday 함수사용법](https://bywords.tistory.com/entry/CLinux-gettimeofday%EB%A1%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%B4%88-%EB%8B%A8%EC%9C%84-%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0), [sprintf 함수사용법](https://jhnyang.tistory.com/314) 
+- [소스코드](src/week4/galaga.c)
 
 
 * * *
